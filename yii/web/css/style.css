@@ -1,0 +1,23 @@
+
+html,
+body {
+    height: 100%;
+    background: #e8eaf6;
+}
+.hhh{
+    background-color: #e8eaf6;
+    margin:10px;
+}
+.form1{
+    background-color: #e8eaf6 indigo lighten-5;
+    border:5px;
+    margin:10px;
+} 
+
+.body-content{
+    margin:10px;
+}
+.icons{
+    box-align:right;
+    vertical-align:center;
+}
